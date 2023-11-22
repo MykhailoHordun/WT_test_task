@@ -20,7 +20,7 @@ This basic purpose of this project is to make a model that will make a segmentat
   2. In the fifth row replace path to your dataset path (format of paths have to be path/to/images/* and path/to/masks/*)
   3. Run the file
 ### To test model
-  1. Download pretrained weights unet.h5 from [Google Drive](https://drive.google.com/drive/u/0/folders/1uYWmzQAiW4nG1tFg6h4lWnuzWMjk-enE).
+  1. Download pretrained weights unet.h5 from [Google Drive](https://drive.google.com/file/d/1ype6ymUbecO5uaZnOw3683sO5neKXevH/view?usp=sharing).
   2. Open file 'test.py'
   3. Replase paths in rows 9, 14, 15, 18
   4. Run code
