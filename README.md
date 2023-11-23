@@ -15,6 +15,8 @@ This basic purpose of this project is to make a model that will make a segmentat
 ## To run task
   1. Save this repo
   2. Install all requirements
+  3. In the 'data_analisys.jpynb' replace path to your dataset path in all cells.
+  4. Run 'data_analisys.jpynb' file.
 ### To train model
   1. Open file 'train.py'
   2. In the fifth row replace path to your dataset path (format of paths have to be path/to/images/* and path/to/masks/*)
